@@ -22,47 +22,7 @@
 name: Jabahar Jagadish Baral
 role: B.Tech CSE Student · Aspiring Software / ML Engineer
 clan: ARYAN Institute of Engineering and Technology
-rank: CGPA 8.1 / 10  (through 6th Semester)
-current_mission: Computer Vision Intern @ Visionexcl Technologies (Visotonics)
-specialties:
-  - Full-stack development (React · FastAPI · Spring Boot)
-  - Machine Learning & Applied AI systems
-  - Computer Vision (OpenCV, instance segmentation, OCR pipelines)
-languages_spoken: [English, Hindi, Odia]
-status: "Available for opportunities — Batch 2027"
 ```
-
-<br/>
-
-## ⚔️ Jutsu (Tech Stack)
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,react,fastapi,spring,mysql,mongodb,git,docker,linux,latex&theme=dark" />
-
-</div>
-
-<br/>
-
-**Languages:** Python · Java · C · SQL · LaTeX
-**Web & Backend:** HTML · CSS · React · FastAPI · Spring Boot · REST APIs
-**Data & ML:** Machine Learning · Artificial Intelligence · Data Analytics · Pandas · NumPy · Scikit-Learn
-**Databases & Tools:** MySQL · MongoDB · Git · GitHub · Linux · Docker
-
-<br/>
-
-## 🔥 Sharingan Stats — Live GitHub Insight
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jabaharjagadishbaral&show_icons=true&theme=red&hide_border=true&bg_color=0D0D0D&title_color=DC143C&icon_color=8B0000&text_color=E6E6E6&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jabaharjagadishbaral&theme=highcontrast&hide_border=true&background=0D0D0D&ring=DC143C&fire=8B0000&currStreakLabel=DC143C" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabaharjagadishbaral&layout=compact&theme=red&hide_border=true&bg_color=0D0D0D&title_color=DC143C&text_color=E6E6E6" width="45%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jabaharjagadishbaral&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" width="80%"/>
-
-</div>
 
 <br/>
 
