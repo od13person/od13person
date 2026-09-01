@@ -66,97 +66,11 @@ status: "Available for opportunities — Batch 2027"
 
 <br/>
 
-## 🐍 The Curse Mark — Live Contribution Snake
-
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/jabaharjagadishbaral/jabaharjagadishbaral/output/snake-dark.svg" width="100%" alt="contribution snake animation"/>
-<!--END_SECTION:snake-->
-
-<sub>Auto-generated every 24h from real commit history via the included GitHub Action — see <code>.github/workflows/snake.yml</code></sub>
-
-</div>
-
-<br/>
-
-## 🗡️ Featured Missions (Projects)
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👁️ Lumen — Document Intelligence (OCR)
-MERN + FastAPI system that OCRs PDFs/images via Tesseract, stores results in MongoDB with full scan history, and uses a local Ollama LLM to summarize, classify, translate, and answer questions about scanned documents.
-
-**Stack:** MERN · FastAPI · Tesseract · MongoDB · Ollama
-[`→ View Repo`](https://github.com/jabaharjagadishbaral/AI-OCR-System)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Customer Churn Analysis Dashboard
-End-to-end churn prediction pipeline on the IBM Telco dataset. Random Forest classifier reaching **84.3% AUC-ROC** and **79.7% accuracy**, deployed via an interactive Streamlit dashboard.
-
-**Stack:** Python · Scikit-Learn · Pandas · Streamlit
-[`→ View Repo`](https://github.com/jabaharjagadishbaral/customer-churn-analysis)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚢 Titanic Survival Predictor
-Feature-engineered classification models benchmarked against the Titanic dataset, packaged behind a browser-based prediction interface.
-
-**Stack:** Python · Scikit-Learn
-[`→ View Repo`](https://github.com/jabaharjagadishbaral/titanic-survival-predictor)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌊 HH Goa App
-React + Vite web application built from the ground up — project setup, tooling, and component architecture.
-
-**Stack:** React · Vite
-[`→ Live Demo`](https://hh-goa-app.onrender.com/)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**🛰️ AI-Based Warehouse Management System** — Computer-vision pipeline for automated container inspection (instance-segmentation damage detection, OCR for container/ISO codes, colour-coded damage heatmaps) built with OpenCV and CNN-based models, evaluated via precision, recall, and IoU.
-
-</div>
-
-<br/>
-
-## 📜 Scrolls Mastered (Certifications)
-
-- 🎖️ IBM Cybersecurity Analyst Specialization — *IBM* (Apr 2025)
-- 🎖️ Data Science & Analytics — *HP LIFE* (Sep 2025)
-- 🎖️ Deloitte Australia Data Analytics Job Simulation — *Forage* (Jan 2026)
-- 🎖️ Tata GenAI Powered Data Analytics Job Simulation — *Forage* (Jan 2026)
-- 🎖️ Claude Code in Action — *Anthropic* (Mar 2026)
-- 🎖️ AI Fluency for Students — *Anthropic* (Mar 2026)
-
-<br/>
-
-## 🎯 Achievements & Leadership
-
-- **National Cadet Corps (NCC) — CQMS** · Volunteered at academic programs and tech fests; led a group of members.
-
-<br/>
-
 ## 🕊️ Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/kanhabaral8%40gmail.com-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanhabaral8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=DC143C)](https://www.linkedin.com/in/jabaharjagadishbaral)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=DC143C)](https://jabahar-jagadish-baral.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=DC143C)](https://github.com/jabaharjagadishbaral)
 
 <br/>
